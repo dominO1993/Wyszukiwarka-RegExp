@@ -34,3 +34,7 @@ input {
 	width: 100%;
 	border-radius: 8px;
 }
+
+li {
+	margin-bottom: 8px;
+}
